@@ -1,0 +1,14 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\obj\Debug\EX_3A.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\obj\Debug\EX_3A.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\bin\Debug\EX_3A.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\bin\Debug\EX_3A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\bin\Debug\EX_3A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\obj\Debug\EX_3A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_3A\obj\Debug\EX_3A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\bin\Debug\EX_3A.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\bin\Debug\EX_3A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\bin\Debug\EX_3A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\obj\Debug\EX_3A.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\obj\Debug\EX_3A.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\obj\Debug\EX_3A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_3A\obj\Debug\EX_3A.pdb

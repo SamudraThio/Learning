@@ -1,0 +1,7 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\obj\Debug\EX 6A.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\obj\Debug\EX 6A.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\bin\Debug\EX 6A.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\bin\Debug\EX 6A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\bin\Debug\EX 6A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\obj\Debug\EX 6A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX 6A\obj\Debug\EX 6A.pdb

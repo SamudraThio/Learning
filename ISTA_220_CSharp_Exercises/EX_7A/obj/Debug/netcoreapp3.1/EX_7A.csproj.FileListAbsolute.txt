@@ -1,0 +1,13 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.AssemblyInfoInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.AssemblyInfo.cs
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.deps.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.runtimeconfig.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.runtimeconfig.dev.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.dll
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\bin\Debug\netcoreapp3.1\EX_7A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.dll
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_7A\obj\Debug\netcoreapp3.1\EX_7A.genruntimeconfig.cache

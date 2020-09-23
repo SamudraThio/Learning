@@ -1,0 +1,7 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\bin\Debug\Thio_EX 2A.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\bin\Debug\Thio_EX 2A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\bin\Debug\Thio_EX 2A.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\obj\Debug\Thio_EX 2A.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\obj\Debug\Thio_EX 2A.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\obj\Debug\Thio_EX 2A.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_2A\Thio_EX 2A\obj\Debug\Thio_EX 2A.pdb

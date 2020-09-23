@@ -1,0 +1,14 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\obj\Debug\progex01.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\obj\Debug\progex01.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\bin\Debug\progex01.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\bin\Debug\progex01.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\bin\Debug\progex01.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\obj\Debug\progex01.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\EX_1A\progex01\obj\Debug\progex01.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\bin\Debug\progex01.exe.config
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\bin\Debug\progex01.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\bin\Debug\progex01.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\obj\Debug\progex01.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\obj\Debug\progex01.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\obj\Debug\progex01.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\EX_1A\progex01\obj\Debug\progex01.pdb

@@ -1,0 +1,1 @@
+Class exercises for the Embry Riddle ISTA-220 Programming Fundamentals in C# course. 
