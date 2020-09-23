@@ -1,0 +1,1 @@
+Class exercises for the Thomas Edison State University COS-111 Introduction to Programming in Java course. 
