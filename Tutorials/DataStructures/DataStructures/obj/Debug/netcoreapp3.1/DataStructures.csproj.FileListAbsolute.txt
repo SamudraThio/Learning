@@ -1,0 +1,13 @@
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.exe
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.deps.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\bin\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.dll
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.pdb
+C:\Users\samud\Desktop\Microsoft Cohort\C# Coding\Exercises\Examples\DataStructures\DataStructures\obj\Debug\netcoreapp3.1\DataStructures.genruntimeconfig.cache
