@@ -64,3 +64,5 @@ C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\b
 C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.CoreCompileInputs.cache
 C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
+C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\samud\Desktop\Microsoft Cohort\ASP.NET\Projects\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ProductSummary.cshtml.g.cs
