@@ -175,3 +175,4 @@ C:\Users\samud\Documents\GitHub\Learning\Tutorials\ContosoUniversity\ContosoUniv
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
