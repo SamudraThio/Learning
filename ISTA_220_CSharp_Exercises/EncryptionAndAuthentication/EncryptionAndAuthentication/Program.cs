@@ -11,11 +11,10 @@ namespace EncryptionAndAuthentication
 
         public static void Main(string[] args)
         {
-            WelcomeMenu();
+            UserInterface();
         }
 
-        // Initial user interface.
-        private static void WelcomeMenu()
+        private static void UserInterface()
         {
             Console.Clear();
             Console.WriteLine(
@@ -35,7 +34,6 @@ namespace EncryptionAndAuthentication
             WelcomeMenuSelection();
         }
 
-        // Takes user input to either create a new account, authenticate or exit console.
         private static void WelcomeMenuSelection()
         {
             int userInput = int.Parse(Console.ReadLine());
@@ -45,10 +43,10 @@ namespace EncryptionAndAuthentication
                 switch (userInput)
                 {
                     case 1:
-                        NewAccount();
+                        CreateNewAccount();
                         break;
                     case 2:
-                        Authenticate();
+                        AuthenticateAccount();
                         break;
                     case 3:
                         PrintAll();
@@ -64,8 +62,7 @@ namespace EncryptionAndAuthentication
             }
         }
 
-        // Takes user input and adds the username and password to the dictionary.
-        private static void NewAccount()
+        private static void CreateNewAccount()
         {
             Console.Clear();
 
@@ -76,12 +73,12 @@ namespace EncryptionAndAuthentication
             {
                 Console.WriteLine("Username has been taken. Press enter to start again.");
                 Console.ReadLine();
-                NewAccount();
+                CreateNewAccount();
             }
 
             Console.WriteLine("Enter your password: ");
             string password = Console.ReadLine();
-            string encryptedPassword = Encryptor.MD5Hash(password);
+            string encryptedPassword = EncyptPassword.MD5Hash(password);
             Console.WriteLine();
 
             accountList.Add(userName, encryptedPassword);
@@ -91,11 +88,10 @@ namespace EncryptionAndAuthentication
 
             Console.WriteLine("\nPress any key to return to the menu.");
             Console.ReadLine();
-            WelcomeMenu();
+            UserInterface();
         }
 
-        // Takes user input and checks if the username and password exist in the dictionary.
-        private static void Authenticate()
+        private static void AuthenticateAccount()
         {
             Console.Clear();
 
@@ -109,27 +105,26 @@ namespace EncryptionAndAuthentication
             {
                 Console.WriteLine("Account does not exist. Press enter to try again.");
                 Console.ReadLine();
-                Authenticate();
+                AuthenticateAccount();
             }
 
-            string encryptedPassword = Encryptor.MD5Hash(password);
+            string encryptedPassword = EncyptPassword.MD5Hash(password);
             accountList.TryGetValue(userName, out password);
             if (accountList.TryGetValue(userName, out password) && password == encryptedPassword)
             {
                 Console.WriteLine("Account has been authenticated");
                 Console.WriteLine("Press enter to return to the main menu.");
                 Console.ReadLine();
-                WelcomeMenu();
+                UserInterface();
             }
             else
             {
                 Console.WriteLine("Incorrect Username or Password. Press enter to try again.");
                 Console.ReadLine();
-                Authenticate();
+                AuthenticateAccount();
             }
         }
 
-        // Prints the entire dictionary with username and encrypted passwords.
         private static void PrintAll()
         {
 
@@ -141,23 +136,20 @@ namespace EncryptionAndAuthentication
                 Console.WriteLine($"Username: {userName} | Password: {password}");
             }
         }
-        // Encrypts the password.
-        public static class Encryptor
+
+        public static class EncyptPassword
         {
             public static string MD5Hash(string password)
             {
                 MD5 md5 = new MD5CryptoServiceProvider();
 
-                //compute hash from the bytes of text
                 md5.ComputeHash(ASCIIEncoding.ASCII.GetBytes(password));
-
-                // get hash result after compute
+            
                 byte[] result = md5.Hash;
 
                 StringBuilder strBuilder = new StringBuilder();
                 for (int i = 0; i < result.Length; i++)
                 {
-                    // change it to 2 hexadecimal digits for each byte
                     strBuilder.Append(result[i].ToString("x2"));
                 }
 
