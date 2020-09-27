@@ -103,7 +103,7 @@ namespace EncryptionAndAuthentication
 
             if (!accountList.ContainsKey(userName))
             {
-                Console.WriteLine("Account does not exist. Press enter to try again.");
+                Console.WriteLine("\nAccount does not exist. Press enter to try again. ");
                 Console.ReadLine();
                 AuthenticateAccount();
             }
@@ -112,14 +112,14 @@ namespace EncryptionAndAuthentication
             accountList.TryGetValue(userName, out password);
             if (accountList.TryGetValue(userName, out password) && password == encryptedPassword)
             {
-                Console.WriteLine("Account has been authenticated");
+                Console.WriteLine("\nAccount has been authenticated");
                 Console.WriteLine("Press enter to return to the main menu.");
                 Console.ReadLine();
                 UserInterface();
             }
             else
             {
-                Console.WriteLine("Incorrect Username or Password. Press enter to try again.");
+                Console.WriteLine("\nIncorrect Username or Password. Press enter to try again.");
                 Console.ReadLine();
                 AuthenticateAccount();
             }
