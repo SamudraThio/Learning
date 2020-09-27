@@ -15,7 +15,7 @@ namespace Thio_Lab_3C
 
         private static void MonteCarloMethod()
         {
-            Console.WriteLine("How many times do you want this to itertate? ");
+            Console.WriteLine("How many times do you want this to iterate? ");
             int iterations = int.Parse(Console.ReadLine());
 
             int inside = 0;
