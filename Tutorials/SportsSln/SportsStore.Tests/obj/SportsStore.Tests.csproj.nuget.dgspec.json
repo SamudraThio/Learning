@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
+    "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {
+    "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "projectName": "SportsStore.Tests",
-        "projectPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+        "projectPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
         "packagesPath": "C:\\Users\\samud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore.Tests\\obj\\",
+        "outputPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj": {
-                "projectPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj"
+              "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj": {
+                "projectPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj": {
+    "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectUniqueName": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj",
         "projectName": "SportsStore",
-        "projectPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj",
+        "projectPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj",
         "packagesPath": "C:\\Users\\samud\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\obj\\",
+        "outputPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samud\\AppData\\Roaming\\NuGet\\NuGet.Config",

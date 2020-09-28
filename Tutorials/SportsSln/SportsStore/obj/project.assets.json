@@ -5001,11 +5001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\samud\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samud\\Desktop\\Microsoft Cohort\\ASP.NET\\Projects\\SportsSln\\SportsStore\\obj\\",
+      "outputPath": "C:\\Users\\samud\\Documents\\GitHub\\Learning\\Tutorials\\SportsSln\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samud\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5067,7 +5067,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
