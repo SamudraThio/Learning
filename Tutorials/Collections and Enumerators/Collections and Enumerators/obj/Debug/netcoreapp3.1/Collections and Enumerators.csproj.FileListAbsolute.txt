@@ -1,0 +1,13 @@
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.exe
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.deps.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.runtimeconfig.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.runtimeconfig.dev.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\bin\Debug\netcoreapp3.1\Collections and Enumerators.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.csprojAssemblyReference.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.AssemblyInfoInputs.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.AssemblyInfo.cs
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.csproj.CoreCompileInputs.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\Collections and Enumerators\Collections and Enumerators\obj\Debug\netcoreapp3.1\Collections and Enumerators.genruntimeconfig.cache
