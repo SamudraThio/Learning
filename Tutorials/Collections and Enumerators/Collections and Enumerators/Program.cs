@@ -118,6 +118,41 @@ namespace Collections_and_Enumerators
 
     }
 
+    public class AllTheInts : IEnumerator<int>, IEnumerable<int>
+    {
+        public int Current { get; set; } = -1;
+
+        object IEnumerator.Current => Current;
+
+        public void Dispose()
+        { }
+
+        public IEnumerator<int> GetEnumerator()
+        {
+            return this;
+        }
+
+        public bool MoveNext()
+        {
+            Current++;
+
+            if (Current < 10)
+                return true;
+            else
+                return false;
+        }
+
+        public void Reset()
+        {
+            Current = -1 ;
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -133,6 +168,39 @@ namespace Collections_and_Enumerators
             {
                 Console.WriteLine(v);
             }
+
+            Console.WriteLine();
+
+            var myEnum = list.GetEnumerator();
+
+            while(myEnum.MoveNext())
+            {
+                var v = myEnum.Current;
+                Console.WriteLine(v);
+            }
+
+            myEnum.Dispose();
+
+            Console.WriteLine();
+
+            var allTheInts = new AllTheInts();
+
+            allTheInts.Reset();
+            while(allTheInts.MoveNext())
+            {
+                Console.WriteLine(allTheInts.Current);
+            }
+            allTheInts.Dispose();
+
+            Console.WriteLine();
+
+            foreach (var v in allTheInts)
+                Console.WriteLine(v);
+
+            Console.WriteLine();
+
+            allTheInts.Reset();
+            allTheInts.Skip(4).Take(4).ToList().ForEach(Console.WriteLine);
         }
     }
 }
