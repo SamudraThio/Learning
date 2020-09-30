@@ -1,0 +1,6 @@
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\Engine\obj\Debug\Engine.pdb
