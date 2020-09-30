@@ -10,3 +10,4 @@ C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\SuperAdventure
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.csproj.CopyComplete
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.exe
 C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\SuperAdventure\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources
