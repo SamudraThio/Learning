@@ -1,0 +1,13 @@
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.exe
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.deps.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.runtimeconfig.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.runtimeconfig.dev.json
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\bin\Debug\netcoreapp3.1\Delegates and Events.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.csprojAssemblyReference.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.AssemblyInfoInputs.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.AssemblyInfo.cs
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.dll
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.pdb
+C:\Users\samud\Documents\GitHub\Learning\Tutorials\DelegatesandEvents\Delegates and Events\obj\Debug\netcoreapp3.1\Delegates and Events.genruntimeconfig.cache
