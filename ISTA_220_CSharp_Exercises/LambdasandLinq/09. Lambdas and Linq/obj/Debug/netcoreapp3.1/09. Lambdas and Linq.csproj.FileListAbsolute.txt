@@ -1,0 +1,13 @@
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.csprojAssemblyReference.cache
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.AssemblyInfoInputs.cache
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.AssemblyInfo.cs
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.csproj.CoreCompileInputs.cache
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.exe
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.deps.json
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.runtimeconfig.json
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.runtimeconfig.dev.json
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.dll
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\bin\Debug\netcoreapp3.1\09. Lambdas and Linq.pdb
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.dll
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.pdb
+C:\Users\Samudra Thio\Documents\GitHub\Learning\ISTA_220_CSharp_Exercises\LambdasandLinq\09. Lambdas and Linq\obj\Debug\netcoreapp3.1\09. Lambdas and Linq.genruntimeconfig.cache
